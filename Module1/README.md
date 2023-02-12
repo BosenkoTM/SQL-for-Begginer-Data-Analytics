@@ -22,4 +22,4 @@
 
 🔑[Фильтрация агрегируемых данных с помощью HAVING и логический порядок обработки инструкций](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%2010/README.md)
 
-🔑[Уровень 1. Практика](/Module1/PracticeModule1/SQLfilesForStudents/SQLZadanieM1.sql)
+❓[Уровень 1. Практика](/Module1/PracticeModule1/SQLfilesForStudents/SQLZadanieM1.sql)
