@@ -1,12 +1,12 @@
-[**Ссылка на 3-ий видеоурок на Youtube**](https://youtu.be/ZMSJ4dVnkDI)
+[**3-ий видеоурок на Youtube**](https://youtu.be/ZMSJ4dVnkDI)
 
-[Ссылка на PostgreSQL (Windows installers)](https://www.postgresql.org/download/windows/)
+[PostgreSQL (Windows installers)](https://www.postgresql.org/download/windows/)
 
-[Ссылка на PostgreSQL Database Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+[PostgreSQL Database Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[Прямая сcылка на сам установочный файл PostgreSQL **`14.7`** для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
+[PostgreSQL **`14.7`** для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
 
-[Ccылка на сервис SQLizer, сервис, который позволяет конвертировать наши таблицы в csv формате в инструкции для создания таблиц в базе данных и наполнения их данными](https://sqlizer.io/#/)
+[сервис SQLizer,конвертировать таблицы в csv формате в инструкции для создания таблиц в БД(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
 **Ccылки на скачивание необходимых csv файлов, которые используются в уроке:**<br>
  - [avocado_prices.csv](/Module1/L-3/CSVfiles/avocado_prices.csv)
