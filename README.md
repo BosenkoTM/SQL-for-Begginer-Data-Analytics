@@ -19,7 +19,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [АДЭУ-2111 2023]()
+ [АДЭУ-211 2023](https://docs.google.com/spreadsheets/d/1bD-10KGmt89iC2JyTH8a5Vc-af2vqMOjycchD7ASej0/edit?usp=sharing)
 
 ## Работа с данными с помощью SQL
 
