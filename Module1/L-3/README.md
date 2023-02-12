@@ -4,7 +4,7 @@
 
 [Ссылка на PostgreSQL Database Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[Прямая сcылка на сам установочный файл PostgreSQL 13.2 для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
+[Прямая сcылка на сам установочный файл PostgreSQL **`14.7`** для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
 
 [Ccылка на сервис SQLizer, сервис, который позволяет конвертировать наши таблицы в csv формате в инструкции для создания таблиц в базе данных и наполнения их данными](https://sqlizer.io/#/)
 
