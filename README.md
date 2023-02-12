@@ -15,6 +15,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [Сервис `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
+[One Compiler](https://onecompiler.com/postgresql/)
+
 [HomeTasks Server Postgres](http://95.131.149.21:5454/pgadmin4)
 
 ## Текущая успеваемость
