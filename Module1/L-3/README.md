@@ -4,7 +4,7 @@
 
 [PostgreSQL **`14.7`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[сервис SQLizer,конвертировать таблицы в csv формате в инструкции для создания таблиц в БД(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
+[Сервис `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
 **Ccылки на скачивание необходимых csv файлов, которые используются в уроке:**<br>
  - [`Архив Яндекс-Диск`](https://disk.yandex.ru/d/DsPSGOU9r3dBMw)
