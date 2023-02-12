@@ -5,5 +5,5 @@
 - [`Архив Яндекс-Диск`](https://disk.yandex.ru/d/qR0AG3xiODtXzw)
 
 
-[**Ссылка на SQL код из практики №1**](/Module1/PracticeModule1/SQLfilesForStudents/SQLZadanieM1.sql)
+[**Практическая работа №1**](/Module1/PracticeModule1/SQLfilesForStudents/SQLZadanieM1.sql)
 
