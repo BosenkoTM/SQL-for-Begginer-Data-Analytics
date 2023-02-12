@@ -1,10 +1,10 @@
 Данный модуль состоит из следующих уроков (переходите по ссылкам):
 
-🔑[Схема данных и руководство по стилю SQL](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2011/README.md)
+🔑[Схема данных и руководство по стилю SQL](/Module2/L-11/README.md)
 
-🔑[Соединения таблиц, виды соединений, синтаксис](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2012/README.md)
+🔑[Соединения таблиц, виды соединений, синтаксис](/Module2/L-12/README.md)
 
-🔑[Внутреннее соединение (INNER) JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/README.md)
+🔑[Внутреннее соединение (INNER) JOIN](/Module2/L-13/README.md)
 
 🔑[Внешнее соединение LEFT JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2014/README.md)
 
