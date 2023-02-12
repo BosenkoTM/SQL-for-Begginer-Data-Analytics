@@ -16,6 +16,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [One Compiler](https://onecompiler.com/postgresql/)
 
+[SQLFLOW](https://sqlflow.gudusoft.com/#/)
+
 [HomeTasks Server Postgres](http://95.131.149.21:5454/pgadmin4)
 
 ## Текущая успеваемость
