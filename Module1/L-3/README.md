@@ -2,9 +2,7 @@
 
 [PostgreSQL (Windows installers)](https://www.postgresql.org/download/windows/)
 
-[PostgreSQL Database Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-
-[PostgreSQL **`14.7`** для Windows](https://www.enterprisedb.com/postgresql-tutorial-resources-training?cid=437)
+[PostgreSQL **`14.7`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 [сервис SQLizer,конвертировать таблицы в csv формате в инструкции для создания таблиц в БД(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
