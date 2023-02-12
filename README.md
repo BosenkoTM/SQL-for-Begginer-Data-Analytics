@@ -1,4 +1,4 @@
-# SQL-for-Begginer
+# SQL-for-Begginer & Data Analytics
 
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
