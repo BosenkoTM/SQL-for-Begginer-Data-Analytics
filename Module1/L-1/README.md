@@ -7,6 +7,6 @@
 
 
 **Ccылки на скачивание необходимых **csv** файлов, которые используются в уроке:**<br>
- - [avocado_prices.csv](/CSVfiles/avocado_prices.csv)
- - [video_game_sales.csv](CSVfiles/video_game_sales.csv)
- - [books.csv](CSVfiles/books.csv)
+ - [avocado_prices.csv](/Module1/L-1/CSVfiles/avocado_prices.csv)
+ - [video_game_sales.csv](/Module1/L-1/CSVfiles/video_game_sales.csv)
+ - [books.csv](/Module1/L-1/CSVfiles/books.csv)
