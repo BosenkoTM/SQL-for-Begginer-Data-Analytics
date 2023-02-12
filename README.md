@@ -39,7 +39,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [Уровень 1️⃣:]
 
-🔑[Введение перед курсом](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%200%20(Introduction)/README.md)
+🔑[Введение перед курсом]()
 
 🔑[Первое знакомство с базами данных](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%201/README.md)
 
