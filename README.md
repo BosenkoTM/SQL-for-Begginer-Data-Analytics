@@ -11,9 +11,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Программное обеспечение 
 
- - OC **`Ubuntu 20.04`** на базе кластера **`МГПУ`**. Номер РМ студента получить у ведущего лектора. Для работы потребуется клиент [anydesk](  https://anydesk.com/en/downloads/windows).
- - Инструкции и команды работы в [Docker containers](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/docker22).
+[PostgreSQL **`14.7`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
+[Сервис `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
+
+[HomeTasks Server Postgres](http://95.131.149.21:5454/pgadmin4)
 
 ## Текущая успеваемость
 
