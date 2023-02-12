@@ -41,85 +41,85 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/01_hadoop).
     -  `Решение` задания [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/01_hadoop/Exercise_1.pdf).
 
-- `lecture 03` Cluster Managers:
-    - [Yet Another Resource Negotiator (YARN)](lectures/3-BigData_YARN.pdf).
-    - [Hive](lectures/3-1-Hive-HiveQL.pdf).
-    - [HiveQL with practice](lectures/3-2-Hive-HiveQL.pdf).
--  Practice: 
-    -  [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/02_hive).
-    -  `Решение` задания [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/02_hive/Exercise_2.pdf).
-    -   [Introduction to HiveQL](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/03_hive-ql_partitioning_hive-server).
-    -  НЕ ВЫПОЛНЯТЬ !!! `Решение` задания [Introduction to HiveQL](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/solutions/winter_semester_2021-2022/03_hive-ql_partitioning_hive-server).
 
-- `lecture 04` Batch processing:
-    - [MapReduce Framework](lectures/4-BigData_MapReduce.pdf)
-    - [Introduction to Spark](lectures/5-BigData_Spark.pdf)
-    - [User-Defined Functions (UDF) in PySpark](lectures/6-BigData_PySpark_UDF.pdf)
- 
-- `lecture 05` Coordination:
-    - [Introduction to Zookeeper](lectures/7-BigData_Zookeeper.pdf)
-   
-- `lecture 06` Streaming:
-    - [Apache Storm](lectures/8-BigData_Storm.pdf)
-    - [Spark Streaming](lectures/9-BigData_Spark_Streaming.pdf)
-    - [Spark Structured Streaming](lectures/10-BigData_Spark_Streaming_Structured.pdf)
-- Practice:
-    - [Introduction to Spark_PySpark](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/04_spark_pyspark_jupyter)
-    -  `Решение` задания [Introduction to Spark_PySpark](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/solutions/winter_semester_2021-2022/04_spark_pyspark_jupyter).
--  `lecture 05-06` Batch vs Streaming:
-    - [Batch And Stream Processing](/lectures/5-Batch_And_Stream_Processing.pdf).
-- `lecture 07` Graphs:
-    - [Apache Giraph](lectures/11-1-BigData_Giraph.pdf)
-    - [Spark GraphX](lectures/11-2-BigData_GraphX.pdf)
-    
-- `lecture 08` Containers:
-    - [Introduction to Docker](lectures/12-BigData_Docker.pdf)
 
 ## Теоретические вопросы
 
-1.	Основные парадигмы теории Больших данных. Правило Мура. Правила Амдала. Виды распределенных систем в контексте больших данных.
-2.	Распределенная файловая система Hadoop (`HDFS`).
-3.	Менеджеры кластера: (`YARN`).
-4.	Инструменты работы с большими данными `Hive` и  `HiveQL`.
-5.	Инструменты работы с большими данными при пакетной обработке данных: Фреймворк `MapReduce`. 
-6.	Инструменты работы с большими данными `Spark` и `PySpark`.
-7.	Координатор: основные подходы при работе в `Zookeeper`.
-8.	Инструменты работы с большими данными при потоковой передаче данных: `Apache Storm`, `Spark Streaming`, `Spark Structured Streaming`.
-9.	Инструменты работы с большими данными на Графах: `Apache Giraph`, `Spark GraphX`.
-10.	Контейнеры: основные подходы при работе  в `Docker`.
 
-## self-study
 
-- `Семинар 1`. [Основные команды в Ubuntu](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/common/docs/basic_shell_commands.md)
-- [Альтернативное практическое изучение инструментов **Big Data**](https://github.com/BosenkoTM/BigDataAnalitic_Practice#practice)
 
-## ТЕСТ 1. Apache Spark.  Дата проведения 27.06.2022, 14.40 - 16.10
+[Уровень 1️⃣:]
 
-[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdD_Hl-WwPK69VGKKf0tw1vF3AgMKYQRR3w9RofcIFKlJM4YA/viewform?usp=sf_link)
+🔑[Введение перед курсом](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%200%20(Introduction)/README.md)
 
-Вспомогательный материал:
- - [Источник 1](/books/test_books/Apache%2BZeppelin.pdf).
+🔑[Первое знакомство с базами данных](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%201/README.md)
 
-## ТЕСТ 2. Зачетное тестирование. Дата проведения  29.06.2022 20.00 - 21.00
-[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
+🔑[pgAdmin, SELECT  и арифметические операции](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%202/README.md)
 
-Вспомогательный материал:
- - [Источник 1](https://disk.yandex.ru/d/PFn19cqtOtn__g?w=1).
+🔑[Установка PostgreSQL с pgAdmin себе на компьютер](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%203/README.md)
 
-## Зачетное практическое задание по курсу  Big Data Analytics: Approaches and Tools
+🔑[Выборка данных из таблиц, уникальные значения и комментарии](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%204/README.md)
 
-### `Вариант 1`
+🔑[Сортировка данных, форматирование кода и ограничение выборки](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%205/README.md)
 
-Использование `kaggle.com` Набора Данных **`Hubway`** Для Расчета Ключевых Показателей Эффективности Совместного Использования Велосипедов. [Условие задания](https://github.com/BosenkoTM/BigDataWork/blob/main/variant_1_exam_calculate/examp_1.pdf)
+🔑[Операторы сравнения. Практика](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%206/README.md)
 
-### `Вариант 2`
+🔑[Фильтрация данных с помощью оператора WHERE, оператор BETWEEN,  логические операторы NOT, AND, OR](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%207/README.md)
 
-Использование данных **`NYC_Taxi`** для Расчета Ключевых Показателей Эффективности. [Условие задания](https://github.com/BosenkoTM/BigDataWork/blob/main/variant_2_exam_calculate/examp_2.pdf)
+🔑[NULL значения и агрегатные функции](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%208/README.md)
 
-### `Вариант 3`
+🔑[Группировка значений с помощью GROUP BY, оператор IN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%209/README.md)
 
-Настройка и работа в **`Hadoop`**, **`HDFS`** и **`Yarn`**. [Условие задания](https://github.com/BosenkoTM/BigDataWork/blob/main/variant_3_exam_calculate/examp_3.pdf)
+🔑[Фильтрация агрегируемых данных с помощью HAVING и логический порядок обработки инструкций](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/Lesson%2010/README.md)
 
-### `Вариант 4`
+🔑[Уровень 1. Практика]
 
-Установка, настройка и работа в **`Hive`**. [Условие задания](https://github.com/BosenkoTM/BigDataWork/tree/main/variant_4_exam_calculate)
+[Уровень 2️⃣:]
+
+
+🔑[Схема данных и руководство по стилю SQL](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2011/README.md)
+
+🔑[Соединения таблиц, виды соединений, синтаксис](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2012/README.md)
+
+🔑[Внутреннее соединение (INNER) JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2013/README.md)
+
+🔑[Внешнее соединение LEFT JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2014/README.md)
+
+🔑[Внешние соединения RIGHT JOIN и FULL JOIN. Первичные (PRIMARY) и внешние (FOREIGN) ключи](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2015/README.md)
+
+🔑[Перекрестное соединение CROSS JOIN](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2016/README.md)
+
+🔑[Объединение строк с помощью UNION и UNION ALL. Введение в подзапросы](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2017/README.md)
+
+🔑[Операторы EXCEPT и INTERSECT, использование USING вместо ON](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2018/README.md)
+
+🔑[Использование операторов LIKE и CASE, функции для работы с датой и временем, функции для работы со строками](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2019/README.md)
+
+🔑[Подзапросы (вложенные запросы) и общие табличные выражения (Common Table Expressions, CTE)](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/Lesson%2020/README.md)
+
+🔑[Уровень 2. Практика]
+
+[Уровень 3️⃣:]
+
+
+🔑[Оконные функции в PostgreSQL, так ли они страшны как о них говорят](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2021/README.md)
+
+🔑[Есть ли жизнь после PostgreSQL](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2022/README.md)
+
+🔑[Установка Microsoft SQL Server и импорт базы данных AdventureWorks](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2023/README.md)
+
+🔑[Структура SQL (DDL, DQL, DML, DCL, TCL). Работа с таблицами - создание, наполнение её данными, изменение, удаление](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2024/README.md)
+
+🔑[Типы данных, оператор TOP. Назад в будущее - вспомним всё](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2025/README.md)
+
+🔑[Ограничения SQL, ключи. Практика по созданию таблиц и их изменению. Вспоминаем оконные функции. Функции для работы с датами и строками](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2026/README.md)
+
+🔑[Синонимы. TOP и OFFSET-FETCH фильтры. Табличные операторы APPLY, PIVOT, UNPIVOT. Подзапросы. Рекурсивные CTE. CASE с переменными](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2027/README.md)
+
+🔑[Представления. Триггеры. Групповые функции](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2028/README.md)
+
+🔑[Хранимые процедуры. Вычисляемые столбцы. Пользовательские функции. Транзакции и обработка ошибок](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2029/README.md)
+
+🔑[Планы выполнения запросов. Физические соединения (nested loops, merge joins, hash joins). Индексы](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2030/README.md)
+
+🔑[Уровень 3. Завершение курса]
