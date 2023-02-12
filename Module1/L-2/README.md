@@ -1,3 +1,4 @@
+[**Ссылка на 2-ой видеоурок на Youtube**](https://youtu.be/e-ZUy_UfQFc)
 
 [Ccылка на онлайн инструмент **pgAdmin** для работы с базами данных](https://www.pgadmin.org/try/)
 
