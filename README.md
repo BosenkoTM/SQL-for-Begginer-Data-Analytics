@@ -27,14 +27,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 01` Intro:
     -  [Intro]()
 
--  Practice: 
-    -  [Intro]().
-
-
-
 ## Теоретические вопросы
-
-
 
 
 📗[Уровень 1️⃣:](/Module1/README.md)
