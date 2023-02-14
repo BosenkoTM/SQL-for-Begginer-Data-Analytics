@@ -46,4 +46,4 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Данные 
 
-[Datasets for lessons](https://disk.yandex.ru/d/qnr2ElGMAA16AA)
+[Datasets for lessons](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)
