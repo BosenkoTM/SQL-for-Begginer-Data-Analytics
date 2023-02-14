@@ -43,3 +43,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 📗[Уровень 3️⃣:]()
 
 ❓[Уровень 3. Контрольная работа 3]
+
+## Данные 
+
+[Datasets for lessons](https://disk.yandex.ru/d/qnr2ElGMAA16AA)
