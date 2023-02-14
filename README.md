@@ -33,7 +33,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
    1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
    3. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
-   4. Проверить работу базовых операций из `лекции 1`. 
+   4. Решить [SQL-задачу](/practice/pr-1.pdf). 
 
 
 ##Индивидуальный трекер
