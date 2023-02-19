@@ -32,11 +32,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 02`:
     -  [SQL для обработки данных]()
 
-- `Practice 01`:
+  - `Practice 01`:
 
-   1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-   3. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
-   4. Решить [SQL-задачу](/practice/pr-1.pdf). 
+     1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+     3. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
+     4. Решить [SQL-задачу](/practice/pr-1.pdf). 
 
 - `lecture 03`:
     -  [Агрегированные функции для анализа данных]()
