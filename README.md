@@ -91,7 +91,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 17. Функции и триггеры. Определения функций. Использование одной функции.
 18. Триггеры. Удаление запросов.
 
-
+## Литература
+    1. Грофф, Дж. SQL. Полное руководство. 2014. – 960 c. [ресурс](https://disk.yandex.ru/i/-NmQh9Z3kktBWQ) 
+    2. Моргунов, Е. П. Язык SQL. Базовый курс : учеб.-практ. пособие / Под ред. Е. В. Рогова, П. В. Лузанова ; 
+Postgres Professional. – М., 2017. – 257 с. [ресурс](https://postgrespro.ru/education/books/sqlprimer)  
+    3. Лузанов, П. PostgreSQL для начинающих / П. Лузанов, Е. Рогов, И. Лёвшин ; Postgres Professional. – М., 
+    2017. – 146 с. [ресурс](https://postgrespro.ru/media/2018/01/10/introbook_v4.pdf)
+    
 ## Данные 
 
 [Datasets for lessons](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)
