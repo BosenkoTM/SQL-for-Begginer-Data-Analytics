@@ -43,7 +43,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
   - `Practice 02`:
  
-      1. Решить [SQL-задачу](). 
+      1. Решить [SQL-задачу](/practice/pr-2.pdf). 
 
 - `lecture 04`:
     -  [Оконные функции для анализа данных]()
