@@ -53,6 +53,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 07`:
     -  [Эффективный SQL]()
 
+- `lecture 08`:
+    -  [Case Study]()
+
+
 ##Индивидуальный трекер
 
 📗[Уровень 1️⃣:](/Module1/README.md)
