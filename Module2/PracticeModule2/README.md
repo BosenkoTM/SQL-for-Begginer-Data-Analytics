@@ -1,6 +1,5 @@
-[**Ссылка на видеоурок практики по 2-ому модулю на Youtube**](https://youtu.be/E_CHMADEa_A)
+[**видеоурок практики по 2-ому модулю на Youtube**](https://youtu.be/E_CHMADEa_A)
 
-![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Practice%20on%20Module%202/images/practice%202.png)
 
 **Ccылки на скачивание необходимых csv файлов, которые используются в уроке:**
 
