@@ -93,8 +93,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Литература
     1. Грофф, Дж. SQL. Полное руководство. 2014. – 960 c. [ресурс](https://disk.yandex.ru/i/-NmQh9Z3kktBWQ) 
-    2. Моргунов, Е. П. Язык SQL. Базовый курс : учеб.-практ. пособие / Под ред. Е. В. Рогова, П. В. Лузанова ; 
-Postgres Professional. – М., 2017. – 257 с. [ресурс](https://postgrespro.ru/education/books/sqlprimer)  
+    2. Моргунов, Е. П. Язык SQL. Базовый курс : учеб.-практ. пособие / Под ред. Е. В. Рогова, П. В. Лузанова; Postgres Professional. – М., 2017. – 257 с. [ресурс](https://postgrespro.ru/education/books/sqlprimer)  
     3. Лузанов, П. PostgreSQL для начинающих / П. Лузанов, Е. Рогов, И. Лёвшин ; Postgres Professional. – М., 
     2017. – 146 с. [ресурс](https://postgrespro.ru/media/2018/01/10/introbook_v4.pdf)
     
