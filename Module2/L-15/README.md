@@ -1,6 +1,5 @@
-[**Ссылка на 15-ый видеоурок на Youtube**](https://youtu.be/NVEbzq8i5sY)
+[**15-ый видеоурок на Youtube**](https://youtu.be/NVEbzq8i5sY)
 
-![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2015/images/lesson%2015.png)
 
 **Ccылки на скачивание необходимых csv файлов, которые используются в уроке:**<br>
  - [classes.csv](https://raw.githubusercontent.com/Data-Learn/SQL-for-beginners/main/SQL-101%20Modules/Module%202/Lesson%2015/CSV%20%D1%84%D0%B0%D0%B9%D0%BB%D1%8B/classes.csv)
