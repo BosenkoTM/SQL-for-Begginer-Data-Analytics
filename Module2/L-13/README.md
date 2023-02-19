@@ -6,7 +6,7 @@
 - [`Архив Яндекс-Диск`](https://disk.yandex.ru/d/uMayiZg1CK6Eow)
 
 **INNER JOIN соединение:**
-
+![img](/Module2/L-13/images/INNER-JOIN.gif)
 
 **Диаграммы Венна:**
 
