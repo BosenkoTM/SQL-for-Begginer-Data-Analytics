@@ -29,6 +29,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 01` Intro:
     -  [Intro]()
 
+- `lecture 02` Intro:
+    -  [SQL для обработки данных!]()
+
 - `Practice 01` Intro:
 
    1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
