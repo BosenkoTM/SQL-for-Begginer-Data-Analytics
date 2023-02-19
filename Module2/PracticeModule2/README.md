@@ -15,7 +15,7 @@
 
 [**Ссылка на тест Майерс-Бриггс по определению типа личности**](https://www.16personalities.com/ru/test-lichnosti)
 
-[**Ссылка на SQL код из практики №2**](/Module2/PracticeModule2/SQLfiles/SQLForPractice№2student.sql)
+[**Контрольная работа №2**](/Module2/PracticeModule2/SQLfiles/SQLForPractice№2student.sql)
 
 
 
