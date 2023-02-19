@@ -1,3 +1,5 @@
+[**Контрольная работа №2**](/Module2/PracticeModule2/SQLfiles/SQLForPractice№2student.sql)
+
 [**видеоурок практики по 2-ому модулю на Youtube**](https://youtu.be/E_CHMADEa_A)
 
 **Ccылки на скачивание необходимых `csv`  и `sql` файлов, которые используются в уроке**
@@ -15,7 +17,7 @@
 
 [**Ссылка на тест Майерс-Бриггс по определению типа личности**](https://www.16personalities.com/ru/test-lichnosti)
 
-[**Контрольная работа №2**](/Module2/PracticeModule2/SQLfiles/SQLForPractice№2student.sql)
+
 
 
 
