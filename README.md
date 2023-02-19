@@ -47,6 +47,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 04`:
     -  [Оконные функции для анализа данных]()
+  
+  - `Practice 03`:
+ 
+      1. Решить [SQL-задачу](/practice/pr-2.pdf).
 
 - `lecture 05`:
     -  [Импорт и экспорт данных]()
