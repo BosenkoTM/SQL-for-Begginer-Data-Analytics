@@ -26,17 +26,29 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Работа с данными с помощью SQL
 
-- `lecture 01` Intro:
+- `lecture 01`:
     -  [Intro]()
 
-- `lecture 02` Intro:
-    -  [SQL для обработки данных!]()
+- `lecture 02`:
+    -  [SQL для обработки данных]()
 
-- `Practice 01` Intro:
+- `Practice 01`:
 
    1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
    3. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
    4. Решить [SQL-задачу](/practice/pr-1.pdf). 
+
+- `lecture 03`:
+    -  [Агрегированные функции для анализа данных]()
+
+- `lecture 04`:
+    -  [Оконные функции для анализа данных]()
+
+- `lecture 05`:
+    -  [Импорт и экспорт данных]()
+
+- `lecture 06`:
+    -  [Аналитика с использованием сложных типов данных]()
 
 
 ##Индивидуальный трекер
