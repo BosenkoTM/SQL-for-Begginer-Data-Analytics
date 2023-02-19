@@ -1,6 +1,5 @@
 [**Ссылка на 14-ый видеоурок на Youtube**](https://youtu.be/2Rww3MMBx5A)
 
-![img](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Modules/Module%202/Lesson%2014/images/lesson%2014.png)
 
 **LEFT JOIN соединение:**
 
