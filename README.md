@@ -55,6 +55,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 05`:
     -  [Импорт и экспорт данных]()
     
+- `Practice 04`:
+ 
       1. Решить [SQL-задачу]().
 
 - `lecture 06`:
