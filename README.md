@@ -56,8 +56,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Импорт и экспорт данных]()
     
 - `Practice 04`:
- 
-      1. Решить [SQL-задачу](/practice/pr-3.pdf).
+    - 1. Решить [SQL-задачу](/practice/pr-3.pdf).
 
 - `lecture 06`:
     -  [Аналитика с использованием сложных типов данных]()
