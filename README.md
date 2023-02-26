@@ -57,7 +57,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
 - `Practice 04`:
  
-      1. Решить [SQL-задачу]().
+      1. Решить [SQL-задачу](/practice/pr-3.pdf).
 
 - `lecture 06`:
     -  [Аналитика с использованием сложных типов данных]()
