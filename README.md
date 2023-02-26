@@ -32,32 +32,14 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 02`:
     -  [SQL для обработки данных]()
 
-  - `Practice 01`:
-
-     1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-     2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
-     3. Решить [SQL-задачу](/practice/pr-1.pdf). 
-
 - `lecture 03`:
     -  [Агрегированные функции для анализа данных]()
-    
-  - `Practice 02`:
- 
-      1. Решить [SQL-задачу](/practice/pr-2.pdf). 
 
 - `lecture 04`:
     -  [Оконные функции для анализа данных]()
   
-  - `Practice 03`:
- 
-      1. Решить [SQL-задачу](/practice/pr-3.pdf).
-
 - `lecture 05`:
     -  [Импорт и экспорт данных]()
-    
-- `Practice 04`:
-
-      1. Решить [SQL-задачу]().
 
 - `lecture 06`:
     -  [Аналитика с использованием сложных типов данных]()
@@ -67,6 +49,21 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 08`:
     -  [Case Study]()
+
+
+  - `Practice 01` SQL для обработки данных:
+
+     1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+     2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
+     3. Решить [SQL-задачу](/practice/pr-1.pdf). 
+  
+   - `Practice 02` Агрегированные функции для анализа данных:
+  
+     1. Решить [SQL-задачу](/practice/pr-2.pdf). 
+   
+   - `Practice 03` Оконные функции для анализа данных:
+  
+     1. Решить [SQL-задачу](/practice/pr-3.pdf).
 
 
 ## Индивидуальный трекер
