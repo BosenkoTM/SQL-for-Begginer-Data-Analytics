@@ -50,6 +50,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 08`:
     -  [Case Study]()
 
+## Практические работы
 
   - `Practice 01` SQL для обработки данных:
 
