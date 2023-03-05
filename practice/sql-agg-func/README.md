@@ -1,21 +1,21 @@
 
-# Aggregate Functions Lab
+# Aggregate Functions
 
 ## Introduction
 
-In this lab we will query data from a table populated with Babe Ruth's career hitting statistics.  We will use aggregate functions to pull interesting information from the table that basic queries cannot track.  We will discover many interesting facts about Babe Ruth, like his total career homeruns and his most homeruns in one season.
+В этой самостоятельной работе `1` работе необходимоj запрашивать данные из таблицы, заполненной статистикой достижений Бэйба Рута за карьеру. Использовать агрегатные функции для извлечения интересной информации из таблицы, которую не могут отследить базовые запросы. 
 
 ## Objectives
 
-1. Write queries with aggregate functions like `COUNT`, `MAX`, `MIN`, and `SUM`
-2. Create an alias for the return value of an aggregate function
-3. Use `GROUP BY` to sort the data sets returned by aggregate functions
-4. Compare aggregates using the `HAVING` clause
+1. Напишите запросы с агрегатными функциями, такими как `COUNT`, `MAX`, `MIN` и `SUM`.
+2. Создайте псевдоним для возвращаемого значения агрегатной функции.
+3. Используйте `GROUP BY` для сортировки наборов данных, возвращаемых агрегатными функциями.
+4. Сравните агрегаты, используя предложение `HAVING`.
 
 ## Babe Ruth -- Career Hitting Statistics
 
 
-We will query from the `babe_ruth_stats` table featured below.  Write your queries as strings inside the functions already defined in `select.py`.
+Запросы авыполнять из таблицы `babe_ruth_stats`, представленной ниже.
 
 year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 ----|-----|------|-------|-------|----|--|-----|----|---|-------|---|--|--|------
@@ -45,10 +45,10 @@ year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 ## Queries
 
 #### `Q1` - total_seasons
-Counts the total number of `year`s that Babe Ruth played professional baseball
+Подсчитать общее количество лет, в течение которых Бэйб Рут играл в профессиональный бейсбол.
 
 #### `Q2` - total_seasons_with_ny
-Counts the total number of `year`s played with the `NY` Yankees
+Подсчитывает общее количество `лет`, сыгранных за `NY` Yankees.
 
 #### `Q3` - most_hr
 Selects the most `HR` that Babe Ruth hit in one season
