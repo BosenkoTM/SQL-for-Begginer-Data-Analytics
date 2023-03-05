@@ -16,7 +16,7 @@
 ## Babe Ruth -- Career Hitting Statistics
 
 
-Запросы выполнять из таблицы `babe_ruth_stats`, представленной ниже.
+Запросы выполнять из таблицы `babe_ruth_stats`, представленной ниже или скачать [тут](/practice/sql-agg-func/babe_ruth_stats.csv).
 
 year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 ----|-----|------|-------|-------|----|--|-----|----|---|-------|---|--|--|------
