@@ -58,22 +58,23 @@ year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 Выбрать наибольшее количество `HR`, которое Бэйб Рут набрал за один сезон.
 
 #### `Q4` - least_hr
-Выбрать наименьшее количество попаданий `HR` за один сезон
+Выбрать наименьшее количество попаданий `HR` за один сезон.
 
 #### `Q5` - total_hr
 Вернуть общее количество `HR`, которые Бэйб Рут нанес за свою карьеру.
 
 #### `Q6` - average_hr_per_year
-Returns the average number of `HR` hit in a given year
+Получить среднее количество попаданий в `HR` за указанный год.
 
 #### `Q7` - year_and_games_with_least_hr
-In the previous query, we learned that Babe Ruth hit 0 `HR` one year.  That statistic might not be indicative of a typical Babe Ruth season if he played in only a handful of games that year.  Let's figure out how many games he played that season.  Select the `year` and `games` from the season in which Ruth hit 0 `HR`.
+В предыдущем запросе узнали, что Бэйб Рут достиг 0 `HR` за один год. Эта статистика могла бы не отражать типичный сезон Бэйба Рута, если бы он сыграл всего несколько игр в том году. Давайте подсчитаем, сколько игр он сыграл в том сезоне. Выбрать `year`и and `games` из сезона, в котором Рут набрала 0 `HR`.
 
 #### `Q8` - select_yr_and_min_hr_with_at_least_100_games
-We determined that Babe Ruth hit 0 homeruns in his first year, when he played only five games.  Let's avoid the outliers by looking at years in which Ruth played in at least 100 games.  Select the `year` with the least number of  `HR` from only those seasons with over 100 `games` played.
+Мы определили, что Бэйб Рут сделал 0 хоумранов в свой первый год, когда он сыграл всего пять игр. Давайте избежим выбросов, взглянув на годы, когда Рут сыграла не менее 100 игр. Выбрать `year` с наименьшим количеством `HR` только из тех сезонов, в которых было сыграно более 100 `games`.
 
 #### `Q9` - avg_batting_avg_aliased_as_career_average
-Select the average, `AVG`, of Ruth's batting averages.  The header of the result would be `AVG(AVG)` which is quite confusing, so provide an alias of `career_average`.
+Выбрать среднее значение `AVG` средних показателей Рут. Заголовок результата будет «AVG(AVG)», что довольно запутанно, поэтому укажите псевдоним «career_average».
+
 
 #### `Q10` - total_years_and_hits_per_team
 Select the `team` and the total number of `year`s and `hits`, but represent the results on a per team basis.  (**Hint**: you will need to sort the result with a certain clause...)
