@@ -77,15 +77,15 @@ year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 
 
 #### `Q10` - total_years_and_hits_per_team
-Select the `team` and the total number of `year`s and `hits`, but represent the results on a per team basis.  (**Hint**: you will need to sort the result with a certain clause...)
+Выбрать `team` и общее количество `year` и `hits`, но представьте результаты для каждой команды. (**Подсказка**: вам нужно будет отсортировать результат с помощью определенного предложения...)
 
 #### `Q11` - total_years_and_hr_per_team_ordered_by_hr
-The previous query returns Babe Ruth's Boston stats first.  However, the overwhelming majority of Ruth's career statistics came when he played for the `NY` Yankees.  Shouldn't we list Ruth's `NY` stats first?  Write the previous query again, but this time we want Babe Ruth's total `HR`s instead of his total `hits`.  Make sure that the resulting data set lists Babe Ruth's stats as a Yankee first.  
-> **Hint**:  You will need to chain another sorting clause after `GROUP BY`.
+Предыдущий запрос сначала возвращает статистику Бэйба Рута по Бостону. Тем не менее, подавляющая часть статистики карьеры Рута пришлась на время, когда он играл за `NY` Yankee. Разве мы не должны сначала пересмотреть статистику Рут по `NY`? Снова напишите предыдущий запрос, но на этот раз нам нужны общие `HR` Бейба Рута, а не его общие `hits`. Убедитесь, что в результирующем наборе данных сначала указана статистика Бейба Рута как янки.
+> **Совет**: вам нужно будет добавить еще одно предложение сортировки после `GROUP BY`.
 
 #### `Q12` - years_with_on_base_over_300
-We want to know the years in which Ruth successfully reached base over 300 times.  We need to add `hits` and `BB` to calculate how many times Ruth reached base.  Simply add the two columns together (ie: `SELECT hits + BB FROM ...`) and give this value an alias of `on_base`.  Select the `year` and `on_base` for only those years with an `on_base` over 300.  
-> **Hint**: `WHERE` won't work here!
+Мы хотим знать годы, в которые Рут успешно достиг базы более 300 раз. Нам нужно добавить `hits` и `BB`, чтобы вычислить, сколько раз Рут достиг базы. Просто сложите два столбца вместе (например: `SELECT hits + BB FROM...`) и присвойте этому значению псевдоним `on_base`. Выберите `year` и `on_base` только для тех лет, для которых `on_base` превышает 300.
+> **Подсказка**: `WHERE` здесь не работает!
 
 ## Summary
 
