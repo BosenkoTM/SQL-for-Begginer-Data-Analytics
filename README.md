@@ -65,6 +65,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    - `Practice 03` Оконные функции для анализа данных:
   
      1. Решить [SQL-задачу](/practice/pr-3.pdf).
+    
+   - `Practice 04` Предобработка и интеграция данных:
+  
+     1. Решить [SQL-задачу](/practice/pr-4.pdf).
 
 
 ## Индивидуальный трекер
