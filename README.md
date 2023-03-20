@@ -73,6 +73,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    - `Practice 05` SQL для подготовки данных:
   
      1. Решить [SQL-задачу](/practice/pr-5.pdf).
+     
+   - `Practice 06` Импорт и экспорт данных:
+  
+     1. Решить [SQL-задачу](/practice/pr-6.pdf).
   
    - `Самостоятельная работа 1`:
   
