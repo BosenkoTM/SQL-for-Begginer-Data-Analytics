@@ -77,6 +77,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    - `Practice 06` Импорт и экспорт данных:
   
      1. Решить [SQL-задачу](/practice/pr-6.pdf).
+     2. Решить [SQL-задачу](/practice/pr-6-2-upload-data-from-pandas-to-sql-main#comparing-pandasto_sql-and-postgresql-copy-command-for-uploading-data-from-pandas-to-database).
   
    - `Самостоятельная работа 1`:
   
