@@ -1,4 +1,4 @@
-# Comparing pandas.to_sql() and PostgreSQL COPY command for uploading data from pandas to database
+# Сравнение pandas.to_sql() и команды PostgreSQL COPY для загрузки данных из pandas в базу данных
 
 ## `Задание 2`
 
