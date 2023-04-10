@@ -78,7 +78,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   
      1. Решить [SQL-задачу](/practice/pr-6.pdf).
      2. Решить [SQL-задачу](/practice/pr-6-2-upload-data-from-pandas-to-sql-main#comparing-pandasto_sql-and-postgresql-copy-command-for-uploading-data-from-pandas-to-database).
-     3.Решить [SQL-задачу](/practice/pr-06_3_4.pdf).
+     3. Решить [SQL-задачу](/practice/pr-06_3_4.pdf).
      
   
    - `Самостоятельная работа 1`:
