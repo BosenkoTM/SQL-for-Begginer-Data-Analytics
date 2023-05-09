@@ -72,10 +72,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    
    - `Practice 05` SQL для подготовки данных+Импорт и экспорт данных:
   
-     1. Решить [SQL-задачу](/practice/pr-5.pdf).
-     2. Решить [SQL-задачу](/practice/pr-6.pdf).
-     3. Решить [SQL-задачу](/practice/pr-6-2-upload-data-from-pandas-to-sql-main#comparing-pandasto_sql-and-postgresql-copy-command-for-uploading-data-from-pandas-to-database).
-     4. Решить [SQL-задачу](/practice/pr-06_3_4.pdf).
+     1. Решить [SQL-задачу](/practice/pr-5-1.pdf).
+     2. Решить [SQL-задачу](/practice/pr-5-2.pdf).
+     3. Решить [SQL-задачу](/practice/pr-5-2-upload-data-from-pandas-to-sql-main).
+     4. Решить [SQL-задачу](/practice/pr-05_4_5.pdf).
      
    - `Practice 06` Аналитика с использованием сложных типов данных:
      
