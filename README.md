@@ -83,7 +83,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    
    - `Practice 07` Производительный SQL:
      
-     1. Решить [SQL-задачу](/practice/pr-07.pdf)
+     1. Решить [SQL-задачу](/practice/pr-07-1.pdf)
+     2. Решить [SQL-задачу](/practice/pr-07-2.pdf)
      
    - `Самостоятельная работа 1`:
   
