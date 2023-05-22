@@ -43,6 +43,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 06`:
     -  [Аналитика с использованием сложных типов данных]()
+    -  [Материальные представления](https://github.com/BosenkoTM/Materialized-View-Strategies-In-PostgreSQL/blob/main/README.md)
 
 - `lecture 07`:
     -  [Эффективный SQL]()
