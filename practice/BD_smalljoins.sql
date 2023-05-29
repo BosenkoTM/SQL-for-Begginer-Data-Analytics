@@ -1,92 +1,3 @@
-SELECT * FROM customers LIMIT 5
-EXPLAIN SELECT * FROM emails;
-
-EXPLAIN SELECT * FROM emails LIMIT 5;
-
-EXPLAIN SELECT * FROM emails WHERE clicked_date BETWEEN '2011-01-01' and '2011-02-01';
-
-
-
-
-
-
--- Используйте команду EXPLAIN, чтобы вернуть план запроса для выбора всех доступных записей в таблице клиентов.
-
-EXPLAIN SELECT * FROM customers;
-
--- Повторите запрос из шага 2 этого упражнения, на этот раз ограничив количество возвращаемых записей до 15.
-
-Sqlda=# EXPLAIN SELECT * FROM customers LIMIT 15;
-
--- Создайте план запроса, выбрав все строки, где клиенты живут в пределах широты 30 и 40 градусов.
-
-Sqlda=# EXPLAIN SELECT * FROM customers WHERE latitude > 30 and latitude < 40;
-
-
-
-
--- Упражнение. Создание индексного сканирования 
-
-
-EXPLAIN SELECT * FROM customers WHERE state='FO';
-
-
-EXPLAIN SELECT DISTINCT state FROM customers;
-
-CREATE INDEX ix_state ON customers(state);
-
-EXPLAIN SELECT * FROM customers WHERE state='FO';
-
-EXPLAIN SELECT * FROM customers WHERE gender='M';
-
-CREATE INDEX ix_gender ON customers(gender);
-
-EXPLAIN SELECT * FROM customers WHERE gender='M';
-
-EXPLAIN SELECT * FROM customers WHERE (latitude < 38) AND (latitude > 30);
-
-
-CREATE INDEX ix_latitude ON customers(latitude);
-
-EXPLAIN SELECT * FROM customers WHERE (latitude < 38) AND (latitude > 30);
-
-EXPLAIN ANALYZE SELECT * FROM customers WHERE (latitude < 38) AND (latitude > 30);
-
-CREATE INDEX ix_latitude_less ON customers(latitude) WHERE (latitude < 38) and (latitude > 30);
-
---создать хэш-индекс:
-
-CREATE INDEX ix_gender ON customers USING HASH(gender);
-
-CREATE INDEX ix_gender ON customers USING btree(gender);
-
-EXPLAIN ANALYZE SELECT * FROM customers 
-WHERE gender='M';
-
-
-DROP INDEX ix_gender;
-
-CREATE INDEX ix_gender ON customers USING HASH(gender);
-
-
-EXPLAIN ANALYZE SELECT * FROM customers WHERE gender='M';
-
-DROP INDEX ix_state;
-
-CREATE INDEX ix_state ON customers USING HASH(state);
-
-EXPLAIN ANALYZE SELECT * FROM customers WHERE state='FO';
-
-
-
-EXPLAIN ANALYZE SELECT customers.*, order_info.order_id, order_info.product_code, order_info.qty 
-FROM customers INNER JOIN order_info ON customers.customer_id=order_info.customer_id;
-
-DROP INDEX ix_gender;
-
-EXPLAIN ANALYZE SELECT * FROM customers WHERE gender='M';
-
-
 
 
 CREATE TABLE public.customers (
@@ -99,9 +10,6 @@ CREATE TABLE public.customers (
 
 ALTER TABLE public.customers OWNER TO admin;
 
---
-
---
 
 CREATE TABLE public.order_info (
     order_id integer,
@@ -112,10 +20,6 @@ CREATE TABLE public.order_info (
 
 
 ALTER TABLE public.order_info OWNER TO admin;
-
---
-
---
 
 CREATE TABLE public.products (
     product_code text,
