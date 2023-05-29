@@ -47,6 +47,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 07`:
     -  [Эффективный SQL]()
+    -  [BD_smalljoins](/practice/BD_smalljoins.sql)
 
 - `lecture 08`:
     -  [Case Study]()
