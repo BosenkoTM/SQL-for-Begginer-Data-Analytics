@@ -95,7 +95,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   
   - `Practice 08` Функции и триггеры:
      
-     1. Решить [SQL-задачу](/practice/pr-08.pdf)
+     1. Решить [SQL-задачу](/practice/pr-08-1.pdf)
           
    - `Самостоятельная работа 1`:
   
