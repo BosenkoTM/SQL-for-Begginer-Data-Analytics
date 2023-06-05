@@ -50,6 +50,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [BD_smalljoins](/practice/BD_smalljoins.sql)
 
 - `lecture 08`:
+    -  [Функции и триггеры]()
+
+- `lecture 09`:
     -  [Case Study]()
 
 ## Практические работы
@@ -89,7 +92,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
      2. Решить [SQL-задачу](/practice/pr-07-2.pdf)
      3. Решить [SQL-задачу](/practice/pr-07-3.pdf)
      4. Решить [SQL-задачу](/practice/pr-07-4.pdf)
+  
+  - `Practice 08` Функции и триггеры:
      
+     1. Решить [SQL-задачу](/practice/pr-08.pdf)
+          
    - `Самостоятельная работа 1`:
   
      14-03-2023 [Агрегированные функции для анализа данных](/practice/sql-agg-func).
