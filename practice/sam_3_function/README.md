@@ -453,32 +453,33 @@ CREATE OR REPLACE FUNCTION fc_IncomePort(VARCHAR) RETURNS INTEGER
 <div STYLE="page-break-after: always;"></div>
 
 
-## Темы для проработки
-
-• `Функции`
-https://postgrespro.ru/docs/postgrespro/11/xfunc-sql
-• `PL/PgSQL`
-https://postgrespro.ru/docs/postgrespro/11/plpgsql
-• `Основные операторы`
-https://postgrespro.ru/docs/postgrespro/11/plpgsql-statements
-• `Управляющие структуры`
-https://postgrespro.ru/docs/postgrespro/11/plpgsql-control-structures
-• `Курсоры`
-https://postgrespro.ru/docs/postgrespro/11/plpgsql-cursors
-• `Полное описание синтаксиса встретившихся команд`
-https://postgrespro.ru/docs/postgrespro/11/sql-commands
-
 ## Индивидуальное задание
 
 • Объяснить, как работают написанные функции.
+
 • Ренализовать `SELECT`-запросы `Задание_1`- `Задание_4` в виде функций.
+
 • Модифицировать или упростить функции `Пример_1`-`Пример_4`.
+
 • Составить SQL-скрипты для создания `5` функций, на языке `PL/pgSQL`. Каждый скрипт реализует следующие элементы:
+
     - `Цикл`.
     - `Ветвление`.
     - `Переменные`.
     - `Курсор`.
     - `Исключение`.
+    
 • Описать в каких случаях целесообразно создавать функции.
+
 • Рассказать о курсорах, как и зачем используются.
+
 • Рассказать о работе с циклами.
+
+## Темы для проработки
+
+1. [Функции](https://postgrespro.ru/docs/postgrespro/11/xfunc-sql)
+2. [PL/PgSQL](https://postgrespro.ru/docs/postgrespro/11/plpgsql)
+3. [Основные операторы](https://postgrespro.ru/docs/postgrespro/11/plpgsql-statements)
+4. [Управляющие структуры](https://postgrespro.ru/docs/postgrespro/11/plpgsql-control-structures)
+5. [Курсоры](https://postgrespro.ru/docs/postgrespro/11/plpgsql-cursors)
+6. [Полное описание синтаксиса встретившихся команд](https://postgrespro.ru/docs/postgrespro/11/sql-commands)
