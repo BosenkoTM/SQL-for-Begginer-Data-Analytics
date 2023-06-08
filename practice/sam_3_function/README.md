@@ -475,7 +475,7 @@ CREATE OR REPLACE FUNCTION fc_IncomePort(VARCHAR) RETURNS INTEGER
 
 • Рассказать о работе с циклами.
 
-## Темы для проработки
+## Литература
 
 1. [Функции](https://postgrespro.ru/docs/postgrespro/11/xfunc-sql)
 2. [PL/PgSQL](https://postgrespro.ru/docs/postgrespro/11/plpgsql)
