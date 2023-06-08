@@ -105,6 +105,14 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    - `Самостоятельная работа 2`:
   
      25-04-2023 [Геопространственный анализ](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_2.pdf).
+     
+   - `Самостоятельная работа 3`:
+  
+     09-06-2023 [Функции](/practice/sam_3_function).
+     
+  - `Самостоятельная работа 4`:
+  
+     13-06-2023 [Триггеры]().
 
 
 ## Индивидуальный трекер
