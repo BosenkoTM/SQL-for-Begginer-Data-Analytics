@@ -99,6 +99,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
      
      1. Решить [SQL-задачу](/practice/pr-08-1.pdf)
      2. Решить [SQL-задачу](/practice/pr-08-2.pdf)
+     3. Решить [SQL-задачу](/practice/pr-08-3.pdf)
           
    - `Самостоятельная работа 1`:
   
