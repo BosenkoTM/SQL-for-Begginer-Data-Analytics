@@ -51,10 +51,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 08`:
     -  [Функции и триггеры]() 
-    
-      1. [BD_smalljoins](/practice/BD_smalljoins.sql) 
-           
-      2. [Function.sql](/Datasets/Functions.sql)
+    -  [BD_smalljoins](/practice/BD_smalljoins.sql) 
+    -  [Function.sql](/Datasets/Functions.sql)
            
 - `lecture 09`:
     -  [Case Study]()
