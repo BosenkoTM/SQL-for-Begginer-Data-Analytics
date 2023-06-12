@@ -50,12 +50,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [BD_smalljoins](/practice/BD_smalljoins.sql)
 
 - `lecture 08`:
-    -  [Функции и триггеры]()
-    -  Вспомогательный материал для создания триггеров: 
-     
-           1. [BD_smalljoins](/practice/BD_smalljoins.sql) 
+    -  [Функции и триггеры]() 
+    
+      1. [BD_smalljoins](/practice/BD_smalljoins.sql) 
            
-           3. [Function.sql](/Datasets/Functions.sql)
+      2. [Function.sql](/Datasets/Functions.sql)
            
 - `lecture 09`:
     -  [Case Study]()
