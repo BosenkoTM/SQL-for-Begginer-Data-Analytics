@@ -63,19 +63,21 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
      1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
      2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
-     3. Решить [SQL-задачу](/practice/pr-1.pdf). 
+    
+     Практическая работа 1. [SQL-задачу](/practice/pr-1.pdf).
+     Практическая работа 2. [SQL-задачу](/practice/pr-2.pdf).
   
    - `Practice 02` Агрегированные функции для анализа данных:
   
-     1. Решить [SQL-задачу](/practice/pr-2.pdf). 
+     1. Решить [SQL-задачу](/practice/). 
    
    - `Practice 03` Оконные функции для анализа данных:
   
-     1. Решить [SQL-задачу](/practice/pr-3.pdf).
+     1. Решить [SQL-задачу](/practice/).
     
    - `Practice 04` Предобработка и интеграция данных:
   
-     1. Решить [SQL-задачу](/practice/pr-4.pdf).
+     1. Решить [SQL-задачу](/practice/).
    
    - `Practice 05` SQL для подготовки данных+Импорт и экспорт данных:
   
@@ -103,15 +105,15 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
           
    - `Самостоятельная работа 1`:
   
-     14-03-2023 [Агрегированные функции для анализа данных](/practice/sql-agg-func).
+      [Агрегированные функции для анализа данных](/practice/sql-agg-func).
      
    - `Самостоятельная работа 2`:
   
-     25-04-2023 [Геопространственный анализ](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_2.pdf).
+      [Геопространственный анализ](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_2.pdf).
      
    - `Самостоятельная работа 3`:
   
-     09-06-2023 [Функции](/practice/sam_3_function).
+      [Функции](/practice/sam_3_function).
      
   - `Самостоятельная работа 4`:
   
