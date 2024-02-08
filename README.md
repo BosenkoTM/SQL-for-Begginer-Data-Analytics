@@ -65,6 +65,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
      2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
     
      Практическая работа 1. [SQL-задачу](/practice/pr-1.pdf).
+    
      Практическая работа 2. [SQL-задачу](/practice/pr-2.pdf).
   
    - `Practice 02` Агрегированные функции для анализа данных:
