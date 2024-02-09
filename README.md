@@ -64,9 +64,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
      1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
      2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
     
-     Практическая работа 1. [SQL-задачу](/practice/pr-1.pdf).
+     Практическая работа 1. [SQL-задача](/practice/pr-1.pdf).
     
-     Практическая работа 2. [SQL-задачу](/practice/pr-2.pdf).
+     Практическая работа 2. [SQL-задача](/practice/pr-2.pdf).
   
    - `Practice 02` Агрегированные функции для анализа данных:
   
