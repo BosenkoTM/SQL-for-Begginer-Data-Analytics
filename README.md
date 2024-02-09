@@ -10,7 +10,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Программное обеспечение 
 
-[PostgreSQL **`14.7`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+[PostgreSQL **`14.7  или выше`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 [Сервис `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
@@ -18,7 +18,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [SQLFLOW](https://sqlflow.gudusoft.com/#/)
 
-[HomeTasks Server Postgres](http://95.131.149.21:5454/pgadmin4)
+Выгрузку отчетов выполнения практических работ проводить в [Gogs](http://95.131.149.21:3000) - локальный Git.
 
 ## Текущая успеваемость
 
