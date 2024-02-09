@@ -22,7 +22,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [АДЭУ-221 2023](https://docs.google.com/spreadsheets/d/1bD-10KGmt89iC2JyTH8a5Vc-af2vqMOjycchD7ASej0/edit?usp=sharing)
+ [АДЭУ](https://docs.google.com/spreadsheets/d/1bD-10KGmt89iC2JyTH8a5Vc-af2vqMOjycchD7ASej0/edit?usp=sharing)
 
 ## Работа с данными с помощью SQL
 
@@ -118,7 +118,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
      
   - `Самостоятельная работа 4`:
   
-     13-06-2023 [Триггеры]().
+    [Триггеры]().
 
 
 ## Индивидуальный трекер
