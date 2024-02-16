@@ -70,7 +70,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   
    - `Practice 02` Агрегированные функции для анализа данных:
   
-     1. Решить [SQL-задачу](/practice/). 
+     Практическая работа 3. [SQL-задача](/practice/pr-03.pdf).
    
    - `Practice 03` Оконные функции для анализа данных:
   
