@@ -59,12 +59,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Практические работы
     
-     1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-     2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
+   1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+   2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
      
-     - Практическая работа 1. [Ключевые слова в запросе SELECT](/practice/pr-1.pdf).
-     - Практическая работа 2. [Использование Joins](/practice/pr-2.pdf).
-     - Практическая работа 3. [Использование агрегатных функций для анализа данных](/practice/pr-03.pdf).
+  - Практическая работа 1. [Ключевые слова в запросе SELECT](/practice/pr-1.pdf).
+  - Практическая работа 2. [Использование Joins](/practice/pr-2.pdf).
+  - Практическая работа 3. [Использование агрегатных функций для анализа данных](/practice/pr-03.pdf).
 
 
 ## Индивидуальный трекер
