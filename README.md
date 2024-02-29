@@ -58,6 +58,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Case Study]()
 
 ## Практические работы
+    
      1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
      2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
      
