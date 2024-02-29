@@ -58,67 +58,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Case Study]()
 
 ## Практические работы
-
-  - `Practice 01` SQL для обработки данных:
-
      1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
      2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
-    
-     Практическая работа 1. [SQL-задача](/practice/pr-1.pdf).
-    
-     Практическая работа 2. [SQL-задача](/practice/pr-2.pdf).
-  
-   - `Practice 02` Агрегированные функции для анализа данных:
-  
-     Практическая работа 3. [SQL-задача](/practice/pr-03.pdf).
-   
-   - `Practice 03` Оконные функции для анализа данных:
-  
-     1. Решить [SQL-задачу](/practice/).
-    
-   - `Practice 04` Предобработка и интеграция данных:
-  
-     1. Решить [SQL-задачу](/practice/).
-   
-   - `Practice 05` SQL для подготовки данных+Импорт и экспорт данных:
-  
-     1. Решить [SQL-задачу](/practice/pr-5-1.pdf).
-     2. Решить [SQL-задачу](/practice/pr-5-2.pdf).
-     3. Решить [SQL-задачу](/practice/pr-5-2-upload-data-from-pandas-to-sql-main).
-     4. Решить [SQL-задачу](/practice/pr-05_4_5.pdf).
-     
-   - `Practice 06` Аналитика с использованием сложных типов данных:
-     
-     1. Решить [SQL-задачу](/practice/pr-06.pdf)
-   
-   - `Practice 07` Производительный SQL:
-     
-     1. Решить [SQL-задачу](/practice/pr-07-1.pdf)
-     2. Решить [SQL-задачу](/practice/pr-07-2.pdf)
-     3. Решить [SQL-задачу](/practice/pr-07-3.pdf)
-     4. Решить [SQL-задачу](/practice/pr-07-4.pdf)
-  
-  - `Practice 08` Функции и триггеры:
-     
-     1. Решить [SQL-задачу](/practice/pr-08-1.pdf)
-     2. Решить [SQL-задачу](/practice/pr-08-2.pdf)
-     3. Решить [SQL-задачу](/practice/pr-08-3.pdf)
-          
-   - `Самостоятельная работа 1`:
-  
-      [Агрегированные функции для анализа данных](/practice/sql-agg-func).
-     
-   - `Самостоятельная работа 2`:
-  
-      [Геопространственный анализ](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_2.pdf).
-     
-   - `Самостоятельная работа 3`:
-  
-      [Функции](/practice/sam_3_function).
-     
-  - `Самостоятельная работа 4`:
-  
-    [Триггеры]().
+        - Практическая работа 1. [Ключевые слова в запросе SELECT](/practice/pr-1.pdf).
+    - Практическая работа 2. [Использование Joins](/practice/pr-2.pdf).
+    - Практическая работа 3. [Использование агрегатных функций для анализа данных](/practice/pr-03.pdf).
 
 
 ## Индивидуальный трекер
