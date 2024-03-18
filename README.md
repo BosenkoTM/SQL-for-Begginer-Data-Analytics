@@ -18,6 +18,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [SQLFLOW](https://sqlflow.gudusoft.com/#/)
 
+[Установкой Anaconda Distribution](https://docs.anaconda.com/free/anaconda/install/)
+
+[Дистрибутив Anaconda Windows](https://disk.yandex.ru/d/q5OBwcdGzv6Kig).
+
 Выгрузку отчетов выполнения практических работ выполнять в [Gogs](http://95.131.149.21:3000) - локальный Git.
 
 ## Текущая успеваемость
