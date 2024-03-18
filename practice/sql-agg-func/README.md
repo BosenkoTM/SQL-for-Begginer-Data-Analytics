@@ -1,5 +1,5 @@
 
-# Aggregate Functions
+# Самостоятельная работа 1. Агрегатные функции
 
 ## Introduction
 
@@ -87,6 +87,3 @@ year|team |league|doubles|triples|hits|HR|games|runs|RBI|at_bats|BB |SB|SO|AVG
 Мы хотим знать годы, в которые Рут успешно достиг базы более 300 раз. Нам нужно добавить `hits` и `BB`, чтобы вычислить, сколько раз Рут достиг базы. Просто сложите два столбца вместе (например: `SELECT hits + BB FROM...`) и присвойте этому значению псевдоним `on_base`. Выберите `year` и `on_base` только для тех лет, для которых `on_base` превышает 300.
 > **Подсказка**: `WHERE` здесь не работает!
 
-## Summary
-
-Well done! In this lab we continued adding complexity to our SQL statements and wrote aggregate functions. 
