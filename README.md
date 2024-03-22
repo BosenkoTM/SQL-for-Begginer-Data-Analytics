@@ -34,31 +34,35 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Intro]()
 
 - `lecture 02`:
-    -  [SQL для обработки данных]()
+    -  [Работа с данными с помощью SQL]()
 
 - `lecture 03`:
     -  [Агрегированные функции для анализа данных]()
 
 - `lecture 04`:
     -  [Оконные функции для анализа данных](/lectures/lecture_04.pdf)
-  
-- `lecture 05`:
-    -  [Импорт и экспорт данных]()
 
+- `lecture 05`:
+    -  [SQL для подготовки данных]()
+  
 - `lecture 06`:
+    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06.pdf)
+    -  [sqlalchemy_data_from_pandas_to_postgres](https://colab.research.google.com/drive/1HLrOzlobYiHIISh_7PCjWfI7QmDPt_dM?usp=sharing).
+
+- `lecture 07`:
     -  [Аналитика с использованием сложных типов данных]()
     -  [Материальные представления](https://github.com/BosenkoTM/Materialized-View-Strategies-In-PostgreSQL/blob/main/README.md)
 
-- `lecture 07`:
+- `lecture 08`:
     -  [Эффективный SQL]()
     -  [BD_smalljoins](/practice/BD_smalljoins.sql)
 
-- `lecture 08`:
+- `lecture 09`:
     -  [Функции и триггеры]() 
     -  [BD_smalljoins](/practice/BD_smalljoins.sql) 
     -  [Function.sql](/Datasets/Functions.sql)
            
-- `lecture 09`:
+- `lecture 10`:
     -  [Case Study]()
 
 ## Практические работы
