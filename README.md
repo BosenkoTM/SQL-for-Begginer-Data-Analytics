@@ -46,9 +46,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [SQL для подготовки данных]()
   
 - `lecture 06`:
-    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06.pdf)
+    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06.pdf).
     -  [sqlalchemy_data_from_pandas_to_postgres](https://colab.research.google.com/drive/1HLrOzlobYiHIISh_7PCjWfI7QmDPt_dM?usp=sharing).
-    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06_2.pdf)
+    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06_2.pdf).
+    -  [Материалы к лекции 6-7](/practice/conda_help_for_lesson).
 
 - `lecture 07`:
     -  [Аналитика с использованием сложных типов данных]()
