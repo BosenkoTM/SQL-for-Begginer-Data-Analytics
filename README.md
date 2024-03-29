@@ -48,6 +48,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 06`:
     -  [Импорт и экспорт данных. Часть 1](/lectures/l_06.pdf)
     -  [sqlalchemy_data_from_pandas_to_postgres](https://colab.research.google.com/drive/1HLrOzlobYiHIISh_7PCjWfI7QmDPt_dM?usp=sharing).
+    -  [Импорт и экспорт данных. Часть 1](/lectures/l_06_2.pdf)
 
 - `lecture 07`:
     -  [Аналитика с использованием сложных типов данных]()
@@ -77,6 +78,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Решение к практической работе 4](/solutions/solution_04.sql).
   - Практическая работа 5.  [SQL для подготовки данных](/practice/pr-5.pdf).
   - Практическая работа 6.  [SQL для подготовки данных](/practice/pr-6-2024.pdf).
+  - Практическая работа 7.  [Робота с внешними приложениями](/practice/pr-7-2024.pdf).
 
 ## Самостоятельные работы
 
