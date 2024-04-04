@@ -81,7 +81,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   - Практическая работа 5.  [SQL для подготовки данных](/practice/pr-5.pdf).
   - Практическая работа 6.  [SQL для подготовки данных](/practice/pr-6-2024.pdf).
   - Практическая работа 7.  [Робота с внешними приложениями](/practice/pr-7-2024.pdf).
-  - Практическая работа 8.  [Анализ метода загрузки данных. pandas.to_sql() и PostgreSQL COPY.](/practice/pr-5-2-upload-data-from-pandas-to-sql-main).
+  - Практическая работа 8.  [Анализ метода загрузки данных. pandas.to_sql() и PostgreSQL COPY](/practice/pr-5-2-upload-data-from-pandas-to-sql-main).
 
 ## Самостоятельные работы
 
