@@ -87,7 +87,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 Самостоятельная работа `1`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/tree/main/practice/sql-agg-func).
 
-Полученные результаты выгрузить в Gogs до `**15.20 22.03.2024**`. 
+Полученные результаты выгрузить в Gogs до `15.20 22.03.2024`. 
 
 ## Индивидуальный трекер
 
