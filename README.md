@@ -85,6 +85,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - файл с решением задания 3-5 в формате `.ipynb`;
     - дамп с расширением `sql`.
   - Практическая работа 8.  [Анализ метода загрузки данных. pandas.to_sql() и PostgreSQL COPY](/practice/pr-5-2-upload-data-from-pandas-to-sql-main).
+  - Практическая работа 9.  [Геопространственный анализ данных](/practice/pr-09-2024.pdf).
 
 ## Самостоятельные работы
 
