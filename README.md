@@ -93,7 +93,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 Полученные результаты выгрузить в Gogs до `15.20 22.03.2024`. 
 
-Самостоятельная работа `2`. [Условие задания]().
+Самостоятельная работа `2`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_3_function/README.md).
 
 Полученные результаты выгрузить в Gogs до `15.20 19.04.2024`. 
 
