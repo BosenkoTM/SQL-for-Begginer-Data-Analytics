@@ -1,20 +1,18 @@
-# Data Analysis with SQL
-A walk-through using intermediate SQL statements to provide analytical insights for Data Science or Business Intelligence from a database.
-This project assumes the reader knows the basic syntax and select statements.
+# Анализ данных Росстат с помощью SQL
 
 ### Concepts covered:
-- Database 
-	- Altering tables, creating new columns
-	- Inserting values, Arithmetic Operators
-	- Views
-- Functions
-	- Aggregating values
-- SQL statements using `JOIN`, `GROUP BY`, `LIMIT`
+- База данных
+	- Изменение таблиц, создание новых столбцов.
+	- Вставка значений, арифметические операторы.
+ 	- Views.	
+- Функции
+	- Агрегирование значений.
+- Операторы SQL с использованием `JOIN`, `GROUP BY`, `LIMIT`.
 
-### Utilities & Enviroments Used:
-- DBMS: [PostgreSQL 14](https://www.postgresql.org/)
+### Используемые утилиты и среды:
+- СУБД: [PostgreSQL 14](https://www.postgresql.org/)
 - GUI: [PgAdmin 4](https://www.pgadmin.org/) on Windows 10
-- Data Source: [USA People without Internet Access in 2016](https://www.kaggle.com/datasets/madaha/people-without-internet/)
+- Источник данных: [Выборочное федеральное статистическое наблюдение по вопросам использования населением информационных технологий и информационно-телекоммуникационных сетей 2020-2022 гг.](https://rosstat.gov.ru/free_doc/new_site/business/it/ikt22/index.html)
 
 
 # Table of Contents
