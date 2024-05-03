@@ -99,8 +99,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 Самостоятельная работа `1`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/tree/main/practice/sql-agg-func).
 
 Самостоятельная работа `2`. [Робота с внешними приложениями](/practice/pr-7-2024.pdf). Результаты представить в `Gogs` до `15.20 04.04.2024`в виде:
+  
     - отчет(ход выполнения задания 1-2);
+   
     - файл с решением задания 3-5 в формате `.ipynb`;
+    
     - дамп с расширением `sql`.
 
 Самостоятельная работа `3`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_3_function/README.md).
