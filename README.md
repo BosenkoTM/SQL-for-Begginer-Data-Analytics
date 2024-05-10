@@ -58,6 +58,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 08`:
     -  [Эффективный SQL]()
+    -  Практика на лекции 1. [Ход работы](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr_on_lecture_plan_query.pdf)
     -  [BD_smalljoins](/practice/BD_smalljoins.sql)
 
 - `lecture 09`:
