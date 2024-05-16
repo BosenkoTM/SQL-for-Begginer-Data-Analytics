@@ -60,13 +60,16 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Эффективный SQL]()
     -  Практика на лекции 1. [Ход работы](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr_on_lecture_plan_query.pdf)
     -  [BD_smalljoins](/practice/BD_smalljoins.sql)
+ 
+-  `lecture 09`:
+    -  [Оптимизация SQL-запросов: советы и методы]()
 
-- `lecture 09`:
+- `lecture 10-11`:
     -  [Функции и триггеры]() 
     -  [BD_smalljoins](/practice/BD_smalljoins.sql) 
     -  [Function.sql](/Datasets/Functions.sql)
            
-- `lecture 10`:
+- `lecture 12`:
     -  [Case Study]()
 
 ## Практические работы
