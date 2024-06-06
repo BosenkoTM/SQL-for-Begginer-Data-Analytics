@@ -124,6 +124,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ❓[Уровень 3. Контрольная работа 3]
 
+
+## Комплексный экзамен
+
+[Практические задания 2024](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/examp24case.pdf)
+
 ## Теоретические вопросы
 
 1. Сбор данных. Соединение таблиц с помощью `JOIN`. Типы соединений. Подзапросы. Union.
