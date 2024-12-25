@@ -96,9 +96,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Самостоятельные работы
 
-Самостоятельная работа `1`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/tree/main/practice/sql-agg-func).
+Самостоятельная работа `1`. [Условие задания].
 
-Самостоятельная работа `2`. [Робота с внешними приложениями](/practice/pr-7-2024.pdf). Результаты представить в `Gogs` до `15.20 04.04.2024`в виде:
+Самостоятельная работа `2`. [Робота с внешними приложениями](/practice/pr-7-2024.pdf). Результаты представить в виде:
   
 - отчет(ход выполнения задания 1-2);
    
@@ -106,9 +106,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
 - дамп с расширением `sql`.
 
-Самостоятельная работа `3`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/sam_3_function/README.md).
+Самостоятельная работа `3`. [Условие задания]
 
-Самостоятельная работа `4`. [Условие задания](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/tree/main/practice/s_4/SQL-DataAnalysis-main#%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-4-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D0%BE%D1%81%D1%81%D1%82%D0%B0%D1%82-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-sql).
+Самостоятельная работа `4`. [Условие задания]
 
 ## Индивидуальный трекер
 
