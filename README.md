@@ -22,11 +22,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [Дистрибутив Anaconda Windows](https://disk.yandex.ru/d/q5OBwcdGzv6Kig).
 
-Выгрузку отчетов выполнения практических работ выполнять в [Gogs](http://95.131.149.21:3000) - локальный Git.
 
 ## Текущая успеваемость
 
- [АДЭУ](https://docs.google.com/spreadsheets/d/1bD-10KGmt89iC2JyTH8a5Vc-af2vqMOjycchD7ASej0/edit?usp=sharing)
+ [АБП](https://lms.mgpu.ru/editor/course/2320)
 
 ## Работа с данными с помощью SQL
 
