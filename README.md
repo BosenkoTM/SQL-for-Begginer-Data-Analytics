@@ -76,7 +76,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
    1. Установить `Postgres` [**16.0+**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
    2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  или [bi_sql_data_student_dump.sql](https://disk.yandex.ru/d/yJTa_s86xpbpMQ)  в `Postgres`.
-      Восстановить бд:
+      Восстановить БД (перейти в каталог с дампом БД):
 
       ```
       pg_restore -U  postgres -d ИМЯ_БД_В_POSTGRESQL bi_sql_data_student_dump.sql
