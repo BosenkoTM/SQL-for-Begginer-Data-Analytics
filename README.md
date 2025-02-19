@@ -10,7 +10,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Программное обеспечение 
 
-[PostgreSQL **`14.7  или выше`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+[PostgreSQL **`16.0  или выше`** для Windows&Mac_OS_X&Linux](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 [Сервис `SQLizer`, конверт `csv` в `DDL`(сервис доступен при включенном VPN)](https://sqlizer.io/#/)
 
@@ -74,8 +74,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Практические работы
     
-   1. Установить `Postgres` [**14.7**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-   2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  в `Postgres`.
+   1. Установить `Postgres` [**16.0+**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
+   2. Загрузить [data.dump](https://disk.yandex.ru/d/p3ga3WZpmAw8-Q)  или [bi_sql_data_student_dump.sql](https://disk.yandex.ru/d/yJTa_s86xpbpMQ)  в `Postgres`.
+      Восстановить бд:
+
+      ```
+      pg_restore -U  postgres -d ИМЯ_БД_В_POSTGRESQL bi_sql_data_student_dump.sql
+      ```
      
   - Практическая работа 1. [Ключевые слова в запросе SELECT](/practice/pr-1.pdf).
   - Практическая работа 2. [Использование Joins](/practice/pr-2.pdf).
