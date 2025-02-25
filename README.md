@@ -81,7 +81,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
       ```
       pg_restore -U  postgres -d ИМЯ_БД_В_POSTGRESQL bi_sql_data_student_dump.sql
       ```
-     
+
+      если `postgre SQL 16` в контейнере `devops_dba_25.ova` 
+
+      ```
+      cat data.dump | docker exec -i -e PGPASSWORD=your_pass postgres16 psql -U postgres -d your_db -h 172.18.0.3
+      ```
+      
   - Практическая работа 1. [Ключевые слова в запросе SELECT](/practice/pr-1.pdf).
   - Практическая работа 2. [Использование Joins](/practice/pr-2.pdf).
   - Практическая работа 3. [Использование агрегатных функций для анализа данных](/practice/pr-03.pdf).
