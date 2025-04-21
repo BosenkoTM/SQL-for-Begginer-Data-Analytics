@@ -1,7 +1,7 @@
-# Практическая работа 8. Анализ метода загрузки данных. pandas.to_sql() и PostgreSQL COPY.
+# Практическая работа 8. Анализ метода загрузки данных
 
-Рализовать примеры на тестовых данных в среде `Anaconda`, для этого  необходимо внести изменения в код, как указано в комментариях к коду. 
-В частности, после загрузки образцов файлов данных потребуется обновить код, указав абсолютное местоположение файлов. Определить, какой метод загрузки данных в СУБД `PostgreSQL` лучше: **pandas.to_sql()** или `PostgreSQL` **COPY**.
+Рализовать примеры на тестовых данных.
+Определить, какой метод загрузки данных в СУБД `PostgreSQL` лучше: **pandas.to_sql()**, **copy_expert()**, **io.StringIO** для данных в памяти или пакетная вставка (**Batch Insert**).
 
 `8.1` Загрузить в Postgres набор данных `upload_test_data.csv` ([источник данных](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data.csv)) выполнив оценку времени загрузки в файле `small_file.py`([файл1](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data_big.csv)).
   
