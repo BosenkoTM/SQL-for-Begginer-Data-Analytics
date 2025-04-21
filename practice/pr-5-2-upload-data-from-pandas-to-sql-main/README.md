@@ -1,13 +1,19 @@
 # Практическая работа 8. Анализ метода загрузки данных
 
-Провести анализ источника данных `upload_test_data.csv` и `upload_test_data_big.csv`, создать ER-диаграмму эскиза базы данных для каждого из источников в виде отдельной таблицы.
-Определить, какой метод загрузки данных в СУБД `PostgreSQL` лучше: **pandas.to_sql()**, **copy_expert()**, **io.StringIO** для данных в памяти или пакетная вставка (**Batch Insert**).
+## Цель:
+Определить наиболее эффективный метод загрузки данных (малых и больших объемов) из CSV-файлов в СУБД PostgreSQL, сравнивая время выполнения для методов: pandas.to_sql(), psycopg2.copy_expert() (с файлом и с io.StringIO), и пакетная вставка (psycopg2.extras.execute_values).
 
-`8.1` Загрузить в Postgres набор данных `upload_test_data.csv` ([источник данных](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data.csv)) выполнив оценку времени загрузки в файле `small_file.py`([файл1](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data_big.csv)).
-  
-`8.2` Загрузить в Postgres набор данных `upload_test_data_big.csv` ([источник данных](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data_big.csv)) выполнив оценку времени загрузки в файле `big_file.py`([файл2](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/big_file.py)).
+## Задачи:
 
-8.3 Показать на диаграмме(matplotlib) временную разницу загрузки файлов для простых и больших данных различными методами ось Х - название метода: **pandas.to_sql()**, **copy_expert()**, **io.StringIO**, **Batch Insert**; по оси У - время.).
+1.  **Подключиться** к предоставленной базе данных PostgreSQL.
+2.  **Проанализировать структуру** исходных CSV-файлов ([upload_test_data.csv](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data.csv) , [upload_test_data_big.csv](https://github.com/BosenkoTM/SQL-for-Begginer-Data-Analytics/blob/main/practice/pr-5-2-upload-data-from-pandas-to-sql-main/upload_test_data_big.csv)).
+3.  **Создать эскизы ER-диаграмм** для таблиц, соответствующих структуре CSV-файлов.
+4.  **Реализовать** три различных метода загрузки данных в PostgreSQL(**pandas.to_sql()**, **copy_expert()**, **io.StringIO**).
+5.  **Измерить время**, затраченное каждым методом на загрузку данных из малого файла (`upload_test_data.csv`).
+6.  **Измерить время**, затраченное каждым методом на загрузку данных из большого файла (`upload_test_data_big.csv`).
+7.  **Визуализировать** результаты сравнения времени загрузки с помощью гистограммы (`matplotlib`).
+8.  **Сделать выводы** об эффективности каждого метода для разных объемов данных.
+
 
 Результаты представить в виде отдельного файла ERD-диаграммы для простых и больших данных из PostgreSQL с расширением `FIO_ERD_test_data.jpg`, `FIO_ERD_test_data_big.jpg`;
-Ссылку на дашборд в `Yandex DataLens` или файл с расширением `.ipynb`, в котором представлены результаты задания `8.3`.
+Ссылку на дашборд в `Yandex DataLens` или файл с расширением `.ipynb`.
