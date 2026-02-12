@@ -58,7 +58,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 Для выполнения лабораторных работ необходимо:
 1.  Установить `Postgres` [**16.0+**](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-2.  Скачать дамп базы данных: [bi_sql_data_student_dump.sql](https://disk.yandex.ru/d/yJTa_s86xpbpMQ).
+2.  Скачать дамп базы данных: [bi_sql_data_student_dump.sql]().
 3.  Восстановить БД (перейти в каталог с дампом БД):
 
 ```bash
